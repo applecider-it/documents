@@ -68,5 +68,5 @@ ssh-add -l
 
 クローン
 
-git clone git@github-personal:applecider-it/github-test.git
+git clone git@github-personal:applecider-it/applecider-it.git
 
