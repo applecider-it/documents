@@ -70,3 +70,23 @@ ssh-add -l
 
 git clone git@github-personal:applecider-it/applecider-it.git
 
+-----------------------------------
+
+gitコマンド
+
+
+ローカルブランチ切り替え
+
+git switch main
+
+リモートブランチ一覧
+
+git branch -r
+
+ローカルにあるリモートブランチ情報の整合性をとる
+
+git fetch --prune
+
+ローカルブランチ削除
+
+git branch -d feature/branch_name
